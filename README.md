@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Project title and description
+  A CRUD Streaming app, sign up using Google login to create and watch streams.
+  Only works with dedicated database server and rtmp.
+  Allows users to log in using OAuth, create and watch streams, only logged in users can create, delete and edit streams.
+# Build status
+  Finished.
+## Tech/framework used
+  React, OAuth, Redux, React form, React route, axios.
+## How to use
+  App only works with dedicated API and backend server (in seperate repos), made purely for fun and experience.
+  Log in using OAuth to create a stream,
+  as long as all servers are running and watched stream has id of 1 and OBS is configured to work with rtmp server
+  you will be able to watch the stream.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
